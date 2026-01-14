@@ -52,6 +52,7 @@ Contact me:
 
  [![Gmail](https://img.shields.io/badge/Gmail-213a56?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:felipeporto.dev@gmail.com) 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-213a56?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/fporto-dev/)
+[![Github](https://img.shields.io/badge/github-repo-213a56?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/portof-dev?tab=repositories)
 
 
 
